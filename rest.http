@@ -1,0 +1,2 @@
+## Get account balance by dateTime
+GET http://localhost:3000/balance?accountId=41078a64-f6f0-4c86-a7af-4d35715090ce&dateTime=2916057436
